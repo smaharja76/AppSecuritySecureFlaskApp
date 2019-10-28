@@ -7,3 +7,4 @@ tests and tox still in progress
 sudo pip install flask
 sudo pip install tox
 sudo pip install -r requirements.txt
+pip install pytest
